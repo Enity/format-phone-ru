@@ -1,0 +1,16 @@
+{
+  "name": "format-phone",
+  "version": "1.0.0",
+  "description": "phone format function",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha './tests/*.test.js' -r esm"
+  },
+  "author": "“Enity” <“enity.w@gmail.com”>",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "esm": "^3.0.82",
+    "mocha": "^5.2.0"
+  }
+}
